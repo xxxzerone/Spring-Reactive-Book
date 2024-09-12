@@ -10,4 +10,5 @@ include 'part1:chapter3:spring-reactive-headoffice'
 findProject(':part1:chapter3:spring-reactive-headoffice')?.name = 'spring-reactive-headoffice'
 include 'part1:chapter3:spring-reactive-branchoffice'
 findProject(':part1:chapter3:spring-reactive-branchoffice')?.name = 'spring-reactive-branchoffice'
+include 'part2'
 
